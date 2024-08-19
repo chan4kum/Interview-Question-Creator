@@ -1,0 +1,56 @@
+Question,Answer
+"1. What is the ultimate objective of all industrial machine learning (ML) projects, as outlined in the text?","The ultimate objective of all industrial machine learning (ML) projects, as outlined in the text, is to develop ML products and rapidly bring them into production."
+"2. What are the common reasons for the failure of many ML projects to meet their expected outcomes, according to the text?","The common reasons for the failure of many ML projects to meet their expected outcomes include the challenges in automating and operationalizing ML products, resulting in many proofs of concept never progressing into production. Additionally, the manual management of ML workflows by data scientists leads to issues during the operations of the ML solutions."
+3. Which paradigm addresses the challenges associated with automating and operationalizing ML products?,The paradigm that addresses the challenges associated with automating and operationalizing ML products is Machine Learning Operations (MLOps).
+"4. What components are encompassed in Machine Learning Operations (MLOps), as specified in the text?","The components encompassed in Machine Learning Operations (MLOps) as specified in the text include:
+
+1. CI/CD automation
+2. Workflow orchestration
+3. Reproducibility
+4. Versioning
+5. Collaboration
+6. Continuous ML training & evaluation
+7. ML metadata tracking/logging"
+5. Which methodology was utilized to extract insights from academic knowledge and practitioner expertise in the text?,A mixed-method approach was utilized to extract insights from academic knowledge and practitioner expertise in the text.
+6. What are the nine principles identified in the text as essential for realizing MLOps?,"The nine principles identified in the text as essential for realizing MLOps are:
+
+1. CI/CD automation
+2. Workflow orchestration
+3. Reproducibility
+4. Versioning
+5. Collaboration
+6. Continuous ML training & evaluation
+7. ML metadata tracking/logging
+8. Monitoring
+9. Governance"
+7. What technical components are listed and explained in the text for implementing MLOps in the design of ML systems?,"The technical components listed and explained in the text for implementing MLOps in the design of ML systems are as follows:
+
+1. CI/CD Component
+2. Source Code Repository
+3. Workflow Orchestration Component
+4. Feature Store System
+5. Model Training Infrastructure
+6. Model Registry
+7. ML Metadata Stores
+8. Monitoring Component
+9. Model Serving Component
+
+These components are essential for implementing MLOps in the design of ML systems."
+8. What roles are highlighted in the text as crucial for achieving MLOps in an interdisciplinary group process?,"The roles highlighted in the text as crucial for achieving MLOps in an interdisciplinary group process are:
+
+1. Business Stakeholder (Product Owner, Project Manager)
+2. Solution Architect (IT Architect)
+3. Data Scientist (ML Specialist, ML Developer)
+4. Data Engineer (DataOps Engineer)
+5. Software Engineer
+6. DevOps Engineer
+7. ML Engineer/MLOps Engineer"
+"9. How is the end-to-end MLOps architecture depicted in the text, and what are the key stages involved?","The end-to-end MLOps architecture depicted in the text includes the following key stages:
+
+(A) MLOps project initiation.
+(B) Feature engineering pipeline, including data ingestion to the feature store.
+(C) Experimentation.
+(D) Automated ML workflow pipeline up to model serving.
+
+These stages cover the process from the initial analysis of the business problem to the deployment and serving of the ML model."
+"10. What challenges for adopting MLOps are identified in the text, and how are they categorized?","The challenges for adopting MLOps identified in the text are related to designing for fluctuating demand, operational challenges, and resolving support requests. These challenges are categorized based on the specific issues they present in the process of ML training and operation."
